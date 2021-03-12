@@ -1,0 +1,1 @@
+# integra_django_microservice_template
